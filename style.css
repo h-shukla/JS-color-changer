@@ -1,0 +1,30 @@
+body {
+    font-family: sans-serif;
+    padding: 1em 0;
+    font-size: 2em;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h1 {
+    color: #ccc;
+}
+
+h2 {
+    color: #ccc;
+}
+
+button {
+    /* margin: 8em 0 0 0; */
+    height: 300px;
+    width: 300px;
+    font-size: 30px;
+    color: #fff;
+    background-color: #333;
+    border: 3px solid red;
+    border-radius: 50%;
+}
